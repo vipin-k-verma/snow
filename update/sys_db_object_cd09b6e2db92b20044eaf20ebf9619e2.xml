@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>test123</sys_created_by>
         <sys_created_on>2017-04-26 10:17:43</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>cd09b6e2db92b20044eaf20ebf9619e2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>test-git-table</sys_name>

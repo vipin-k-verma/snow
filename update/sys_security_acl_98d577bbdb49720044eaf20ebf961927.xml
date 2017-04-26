@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-02-27 08:36:41</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>98d577bbdb49720044eaf20ebf961927</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_66394_marketing_test_table_to_check_sys_documenation</sys_name>

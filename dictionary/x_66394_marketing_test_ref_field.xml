@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element extends="sys_import_set_row" label="test ref field" max_length="40" name="x_66394_marketing_test_ref_field" type="collection">
+        <element label="test-git-field" max_length="40" name="test_git_field" type="string"/>
         <element attributes="import_attribute_name=Age,edge_encryption_enabled=true" label="Age" max_length="40" name="u_age" type="string"/>
         <element attributes="import_attribute_name=Name,edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
         <element attributes="import_attribute_name=user ref,edge_encryption_enabled=true" label="user ref" max_length="40" name="u_user_ref" type="string"/>

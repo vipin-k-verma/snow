@@ -4,7 +4,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="x_66394_marketing_marketing_event" element="NULL" name="x_66394_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="193a0512db02220044eab20ebf96195c">4cc71822db66220044eaf20ebf961925</list_id>
+            <list_id display_value="x_66394_marketing_marketing_event" element="NULL" name="x_66394_marketing_marketing_event" parent="NULL" relationship="NULL" sys_domain="global" view="1b2f1723f5213200a21cc3267c0bd580">4cc71822db66220044eaf20ebf961925</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -29,7 +29,7 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2016-10-21 12:37:05</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>4cc71822db66220044eaf20ebf961925</sys_id>
@@ -43,7 +43,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2016-10-21 12:37:05</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">193a0512db02220044eab20ebf96195c</view>
+            <view display_value="Reference List" name="sys_ref_list">1b2f1723f5213200a21cc3267c0bd580</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

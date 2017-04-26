@@ -17,11 +17,11 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">9efac552db02220044eab20ebf9619c8</super_class>
+        <super_class display_value="Task" name="task">8adf5b63f5213200a21cc3267c0bd586</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-10-21 11:19:25</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>c345842edb26220044eaf20ebf961934</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Equipment Request</sys_name>

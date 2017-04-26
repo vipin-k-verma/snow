@@ -42,7 +42,7 @@
         <sys_class_name>sys_data_source</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-03-04 13:51:44</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>c4edeea5db55320044eaf20ebf96193d</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>load_date.csv (Uploaded)</sys_name>

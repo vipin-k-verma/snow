@@ -7,7 +7,7 @@
         <sys_class_name>sys_scope_privilege</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-02-25 16:17:49</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>af2c8fdbdb01720044eaf20ebf96198a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>incident</sys_name>

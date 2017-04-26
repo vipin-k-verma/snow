@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>test123</sys_created_by>
         <sys_created_on>2017-04-26 10:17:43</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3d297626db92b20044eaf20ebf961988</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_66394_marketing_test_git_table.x_66394_marketing_test_git_table_user</sys_name>
