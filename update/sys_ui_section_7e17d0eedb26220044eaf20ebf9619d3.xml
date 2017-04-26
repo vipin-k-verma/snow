@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="7e17d0eedb26220044eaf20ebf9619d3" sys_domain="global" table="x_66394_marketing_equipment_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-30 10:31:40</sys_created_on>
+            <sys_id>2793c00bdb20320044eaf20ebf9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_66394_marketing_equipment_request" sys_domain="global" view="Default view">7e17d0eedb26220044eaf20ebf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-30 10:31:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cost</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-30 10:31:40</sys_created_on>
+            <sys_id>a793c00bdb20320044eaf20ebf9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_66394_marketing_equipment_request" sys_domain="global" view="Default view">7e17d0eedb26220044eaf20ebf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-30 10:31:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-30 10:31:40</sys_created_on>
+            <sys_id>2b93c00bdb20320044eaf20ebf9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_66394_marketing_equipment_request" sys_domain="global" view="Default view">7e17d0eedb26220044eaf20ebf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-30 10:31:40</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>needed_from</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-30 10:31:40</sys_created_on>
+            <sys_id>ab93c00bdb20320044eaf20ebf9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_66394_marketing_equipment_request" sys_domain="global" view="Default view">7e17d0eedb26220044eaf20ebf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-30 10:31:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>needed_until</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-30 10:31:40</sys_created_on>
+            <sys_id>2f93c00bdb20320044eaf20ebf9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_66394_marketing_equipment_request" sys_domain="global" view="Default view">7e17d0eedb26220044eaf20ebf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-30 10:31:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>marketing_event</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-30 10:31:40</sys_created_on>
+            <sys_id>af93c00bdb20320044eaf20ebf9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_66394_marketing_equipment_request" sys_domain="global" view="Default view">7e17d0eedb26220044eaf20ebf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-30 10:31:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-30 10:31:40</sys_created_on>
+            <sys_id>2393c00bdb20320044eaf20ebf9619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_66394_marketing_equipment_request" sys_domain="global" view="Default view">7e17d0eedb26220044eaf20ebf9619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-30 10:31:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_66394_marketing_equipment_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-21 12:34:16</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7e17d0eedb26220044eaf20ebf9619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_66394_marketing_equipment_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Marketing Events Application" source="x_66394_marketing">9104c8eadb26220044eaf20ebf9619e7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Marketing Events Application">9104c8eadb26220044eaf20ebf9619e7</sys_scope>
+            <sys_update_name>sys_ui_section_7e17d0eedb26220044eaf20ebf9619d3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-21 12:34:16</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

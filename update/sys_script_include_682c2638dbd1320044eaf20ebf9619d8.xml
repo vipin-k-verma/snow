@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_66394_marketing.test_include</api_name>
+        <client_callable>true</client_callable>
+        <description>Testing. This script include will get called from client script and update flag column value 1 and 0. This would update in marketing event . &#13;
+If input given is 1, it will be updated by 1&#13;
+If input given is 0, it will be updated by 0.</description>
+        <name>test_include</name>
+        <script><![CDATA[var test_include = Class.create();
+test_include.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+		
+	updateFlag: function() {
+		var glide_rec = new GlideRecord('x_66394_marketing_marketing_event');
+		glide_rec.addQuery('city','London');
+		glide_rec.query();
+		while(glide_rec.next()){
+			glide_rec.flag = true;
+			glide_rec.update();
+		}
+		
+	},
+	
+	type: 'test_include'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-03-02 05:51:17</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>682c2638dbd1320044eaf20ebf9619d8</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>test_include</sys_name>
+        <sys_package display_value="Marketing Events Application" source="x_66394_marketing">9104c8eadb26220044eaf20ebf9619e7</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">9104c8eadb26220044eaf20ebf9619e7</sys_scope>
+        <sys_update_name>sys_script_include_682c2638dbd1320044eaf20ebf9619d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-03-02 07:44:29</sys_updated_on>
+    </sys_script_include>
+</record_update>

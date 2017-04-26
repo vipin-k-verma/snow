@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="8ca6f7bbdb49720044eaf20ebf9619f4" sys_domain="global" table="x_66394_marketing_test_table_to_check_sys_documenation" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-27 08:41:11</sys_created_on>
+            <sys_id>cad67fbbdb49720044eaf20ebf961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_66394_marketing_test_table_to_check_sys_documenation" sys_domain="global" view="Default view">8ca6f7bbdb49720044eaf20ebf9619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-27 08:41:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-27 08:41:11</sys_created_on>
+            <sys_id>4ed67fbbdb49720044eaf20ebf961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_66394_marketing_test_table_to_check_sys_documenation" sys_domain="global" view="Default view">8ca6f7bbdb49720044eaf20ebf9619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-27 08:41:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_mod_count</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-27 08:41:11</sys_created_on>
+            <sys_id>ced67fbbdb49720044eaf20ebf961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_66394_marketing_test_table_to_check_sys_documenation" sys_domain="global" view="Default view">8ca6f7bbdb49720044eaf20ebf9619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-27 08:41:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-27 08:41:11</sys_created_on>
+            <sys_id>42d67fbbdb49720044eaf20ebf961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_66394_marketing_test_table_to_check_sys_documenation" sys_domain="global" view="Default view">8ca6f7bbdb49720044eaf20ebf9619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-27 08:41:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-27 08:41:11</sys_created_on>
+            <sys_id>c2d67fbbdb49720044eaf20ebf961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_66394_marketing_test_table_to_check_sys_documenation" sys_domain="global" view="Default view">8ca6f7bbdb49720044eaf20ebf9619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-27 08:41:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-27 08:41:11</sys_created_on>
+            <sys_id>46d67fbbdb49720044eaf20ebf961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_66394_marketing_test_table_to_check_sys_documenation" sys_domain="global" view="Default view">8ca6f7bbdb49720044eaf20ebf9619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-27 08:41:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>age</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-27 08:48:41</sys_created_on>
+            <sys_id>8898b7fbdb49720044eaf20ebf961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_66394_marketing_test_table_to_check_sys_documenation" sys_domain="global" view="Default view">8ca6f7bbdb49720044eaf20ebf9619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-27 08:48:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_66394_marketing_test_table_to_check_sys_documenation</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-02-27 08:40:13</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ca6f7bbdb49720044eaf20ebf9619f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_66394_marketing_test_table_to_check_sys_documenation</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Marketing Events Application" source="x_66394_marketing">9104c8eadb26220044eaf20ebf9619e7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Marketing Events Application">9104c8eadb26220044eaf20ebf9619e7</sys_scope>
+            <sys_update_name>sys_ui_section_8ca6f7bbdb49720044eaf20ebf9619f4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-27 08:40:13</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

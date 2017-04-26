@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_66394_marketing_test_import_set" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_66394_marketing_test_import_set" element="NULL" name="x_66394_marketing_test_import_set" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9e1b66a5db55320044eaf20ebf9619a2</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-04 13:39:36</sys_created_on>
+            <sys_id>921b66a5db55320044eaf20ebf9619a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-04 13:39:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>age</element>
+            <list_id display_value="x_66394_marketing_test_import_set" element="NULL" name="x_66394_marketing_test_import_set" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9e1b66a5db55320044eaf20ebf9619a2</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-04 13:39:36</sys_created_on>
+            <sys_id>161b66a5db55320044eaf20ebf9619a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-04 13:39:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user_ref</element>
+            <list_id display_value="x_66394_marketing_test_import_set" element="NULL" name="x_66394_marketing_test_import_set" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9e1b66a5db55320044eaf20ebf9619a2</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-04 13:39:36</sys_created_on>
+            <sys_id>961b66a5db55320044eaf20ebf9619a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-04 13:39:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_66394_marketing_test_import_set</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-04 13:39:36</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9e1b66a5db55320044eaf20ebf9619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_66394_marketing_test_import_set</sys_name>
+            <sys_package display_value="Marketing Events Application" source="x_66394_marketing">9104c8eadb26220044eaf20ebf9619e7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Marketing Events Application">9104c8eadb26220044eaf20ebf9619e7</sys_scope>
+            <sys_update_name>sys_ui_list_x_66394_marketing_test_import_set_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-04 13:39:36</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

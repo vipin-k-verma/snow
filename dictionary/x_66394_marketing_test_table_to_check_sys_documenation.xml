@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="hasLabels=true" label="test sys_documenation" max_length="40" name="x_66394_marketing_test_table_to_check_sys_documenation" type="collection">
+        <element label="Age" max_length="40" name="age" type="integer"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

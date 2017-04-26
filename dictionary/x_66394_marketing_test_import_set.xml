@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Test_Import_Set" max_length="40" name="x_66394_marketing_test_import_set" type="collection">
+        <element label="Age" max_length="40" name="age" type="integer"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="user ref" max_length="32" name="user_ref" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="user_ref"/>
+        </index>
+    </element>
+</database>

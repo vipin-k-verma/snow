@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="city" table="x_66394_marketing_marketing_event" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dallas</label>
+            <language>en</language>
+            <name>x_66394_marketing_marketing_event</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-21 11:30:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d88086edb26220044eaf20ebf96198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-21 11:30:31</sys_updated_on>
+            <value>Dallas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>London</label>
+            <language>en</language>
+            <name>x_66394_marketing_marketing_event</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-21 11:30:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0588086edb26220044eaf20ebf96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-21 11:30:31</sys_updated_on>
+            <value>London</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Kansas City</label>
+            <language>en</language>
+            <name>x_66394_marketing_marketing_event</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-21 11:30:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0988086edb26220044eaf20ebf96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-21 11:30:31</sys_updated_on>
+            <value>Kansas City</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <name>x_66394_marketing_marketing_event</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-21 11:30:31</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>0188086edb26220044eaf20ebf96198f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>city</sys_name>
+            <sys_package display_value="Marketing Events Application" source="x_66394_marketing">9104c8eadb26220044eaf20ebf9619e7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Marketing Events Application">9104c8eadb26220044eaf20ebf9619e7</sys_scope>
+            <sys_update_name>sys_choice_x_66394_marketing_marketing_event_city</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-02-04 18:55:09</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

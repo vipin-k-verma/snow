@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_66394_marketing.ValidatePasswordStronger</api_name>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>ValidatePasswordStronger</name>
+        <script><![CDATA[gs.include("PrototypeServer");
+  var ValidatePasswordStronger = Class.create();
+  ValidatePasswordStronger.prototype = {
+       process : function() {
+          var user_password = request.getParameter("user_password");
+          var min_len = 8;
+          var rules = "Password must be at least " + min_len + 
+             " characters long and contain a digit, an uppercase letter, and a lowercase letter.";
+          if (user_password.length() < min_len) {
+             gs.addErrorMessage("TOO SHORT: " + rules);
+             return false;
+          }
+          var digit_pattern = new RegExp("[0-9]", "g");
+          if (!digit_pattern.test(user_password)) {
+             gs.addErrorMessage("DIGIT MISSING: " + rules);
+             return false;
+          }
+          var upper_pattern = new RegExp("[A-Z]", "g");
+          if (!upper_pattern.test(user_password)) {
+             gs.addErrorMessage("UPPERCASE MISSING: " + rules);
+             return false;
+          }
+          var lower_pattern = new RegExp("[a-z]", "g");
+          if (!lower_pattern.test(user_password)) {
+             gs.addErrorMessage("LOWERCASE MISSING: " + rules);
+             return false;
+          }
+          return true; // password is OK
+       }
+  };]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-03-02 16:37:20</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>68608901db95320044eaf20ebf961970</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ValidatePasswordStronger</sys_name>
+        <sys_package display_value="Marketing Events Application" source="x_66394_marketing">9104c8eadb26220044eaf20ebf9619e7</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">9104c8eadb26220044eaf20ebf9619e7</sys_scope>
+        <sys_update_name>sys_script_include_68608901db95320044eaf20ebf961970</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-03-02 16:37:20</sys_updated_on>
+    </sys_script_include>
+</record_update>

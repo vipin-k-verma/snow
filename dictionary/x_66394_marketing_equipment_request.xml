@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Equipment Request" max_length="40" name="x_66394_marketing_equipment_request" sizeclass="6" type="collection">
+        <element label="Cost" max_length="40" name="cost" type="currency"/>
+        <element label="Marketing Event" max_length="32" name="marketing_event" reference="x_66394_marketing_marketing_event" reference_qual="budget&gt;javascript:getCurrencyFilter('x_66394_marketing_marketing_event','budget', 'USD;1000')^EQ" reference_qual_condition="budget&gt;javascript:getCurrencyFilter('x_66394_marketing_marketing_event','budget', 'USD;1000')^EQ" type="reference"/>
+        <element label="Needed From" max_length="40" name="needed_from" type="glide_date"/>
+        <element label="Needed Until" max_length="40" name="needed_until" type="glide_date"/>
+        <element display="true" label="Type" max_length="40" name="type" type="string"/>
+    </element>
+</database>
